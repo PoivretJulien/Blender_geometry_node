@@ -49,6 +49,15 @@ the IA question (from my point of view):
        
         -> theory and virtual reality of information could only be an advice not a threat !
         information is not kinetic ! stupidity can but only with MEANS (as smartest moves) !
+
+        -> The avionics issue: 
+        Of course we may be scare of the new take of drone on battlefields swarm, edge Ia, optic fiber link to 
+        avoid counter measures, (note on the price of ship memory...), but the reality is that numerical/space 
+        knowledge should be protected because, this open source will give to the children of today 
+        (and the world of tomorrow the possible knowledge of laser counter measure) that is the CANCER OF WAR 
+        i believe ( the cost of one directed energy shot vs a patriot missile is ridiculous ), 
+        we must balance technology risk by technological cure that the eternal war between GOOD and EVIL 
+        that no one can stop, it's simply how universe expend, once again the real cancer is laziness.
            
 
 </pre>
