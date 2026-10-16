@@ -58,6 +58,20 @@ the IA question (from my point of view):
         i believe ( the cost of one directed energy shot vs a patriot missile is ridiculous ), 
         we must balance technology risk by technological cure that the eternal war between GOOD and EVIL 
         that no one can stop, it's simply how universe expend, once again the real cancer is laziness.
+
+        The Matrices Inverse Part:
+
+        I guess we are there in an elaborated topic of applied mathematical notion, it's first for sure an good things to know
+        it's application of reverting a transformation when it possible ( though all transforms that result to a collapse 
+        appear to not be inversible anymore due to the lost of information: "once a number is multiply by zero we get a zero 
+        and no way to come back from where this zero may have been coming from ). but at first all what we want is to have a practical 
+        application of this object to interact with, never the less, it's interesting what could have been the take away of 
+        this mathematical object, it is basically multiplying each matrix inputs elements by the Adjugated/(1/determinant) ratio
+        this produce the transformation inverse.
+        - the algorithm is a complex processes that worth taking a look at, because several algorithm exist (more on this later),
+        but for now the grid example is made from Adjugate and determinant inverse ratio which i think is important to consider 
+        (determinant notion is also used in Moller&Trumbore Raytracing Algorithm). wile not knowing deeply the algorithm those notion 
+        have to be familiar.
            
 
 </pre>
