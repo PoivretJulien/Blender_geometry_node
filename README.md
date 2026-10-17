@@ -72,7 +72,7 @@ the IA question (from my point of view):
         - the algorithm is a complex processes that worth taking a look at, because several algorithm exist 
         (more on this later),but for now the grid example is made from Adjugate and determinant inverse ratio 
         which i think is important to consider (determinant notion is also used in Moller&Trumbore Raytracing Algorithm).
-        wile not knowing deeply the algorithm those notion have to be familiar.
+        while not knowing deeply the algorithm those notion have to be familiar.
            
 
 </pre>
