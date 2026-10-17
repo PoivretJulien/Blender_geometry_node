@@ -68,7 +68,7 @@ the IA question (from my point of view):
         from where this zero may have been coming from ). but at first all what we want is to have a practical 
         application of this object to interact with, never the less, it's interesting what could have been 
         the take away of this mathematical object, it is basically multiplying each matrix inputs elements by 
-        the Adjugated/(1/determinant) ratio this produce the transformation inverse.
+        the Adjugated/(determinant) ratio this produce the transformation inverse.
         - the algorithm is a complex processes that worth taking a look at, because several algorithm exist 
         (more on this later),but for now the grid example is made from Adjugate and determinant inverse ratio 
         which i think is important to consider (determinant notion is also used in Moller&Trumbore Raytracing Algorithm).
