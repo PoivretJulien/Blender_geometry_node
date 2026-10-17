@@ -75,9 +75,9 @@ the IA question (from my point of view):
         while not knowing deeply the algorithm those notion have to be familiar.
         
         - note that nodes need wire management to achieve the interactivity of the inverse but the "stereo" approach to
-        port the (local) ia generated code to geometry node is involving in the purpose of getting closer of the mathematical reality
-        rather than the compiling technology ( the python code is more easy to read in that case but the interactive experiment 
-        in blender view port still gold for learning live )
+        port the (local ia generated python code) to geometry node is involving in the purpose of getting closer 
+        of the mathematical reality rather than the compiling technology ( the python code is more easy to read in that 
+        case but the interactive experiment in blender view port still gold for learning live to identify mathematical object)
         
            
 
