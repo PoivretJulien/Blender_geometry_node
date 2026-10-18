@@ -16,7 +16,7 @@ Quotes: "as moving part of reality, those who have the heart fill by passion mus
   (complex number algebra will be deal with python), providing a live computing and interactivity.
 - Some topics are quite advance, and may be underwhelming at first, but at least a functional 
   application of the algorithm is sliced and documented, for possible further insight when needed,
-  this documentation on such basic fundamentals have to be done at some point in any personal study.
+  this documentation on such basic fundamentals have to be done at some point in any serious personal study.
   ( it's what i'm doing for myself in this folder.)
 - Blender geometry nodes tend to focus on math at first, but it's still interesting to port the algorithm 
   in the language of you choice. 
