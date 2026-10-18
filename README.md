@@ -17,6 +17,7 @@ Quotes: "as moving part of reality, those who have the heart fill by passion mus
 - Some topics are quite advance, and may be underwhelming at first, but at least a functional 
   application of the algorithm is sliced and documented, for possible further insight when needed,
   this documentation on such basic fundamentals have to be done at some point in any personal study.
+  ( it's what i'm doing for myself in this folder.)
 - Blender geometry nodes tend to focus on math at first, but it's still interesting to port the algorithm 
   in the language of you choice. 
 - But at first: "math and interactions" on the marvelous Blender platform made for everyone.
