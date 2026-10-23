@@ -81,7 +81,7 @@ the IA question (from my point of view):
         case but the interactive experiment in blender view port still gold for learning live to identify mathematical objects)
         
         -> Why Geometry node and python ?
-        Python is slow but simple and convenient for making prototype math is complicated enough and necessitate to have 
+        Python is slow but simple and convenient for making prototypes, math is complicated enough and necessitate to have 
         a crystal clear insight, about c,c++,rust,zig... those are technical languages that achieve performance by type optimization
         when writhing binary, ia now a day can generate code and binary from a simple idea python is perfect for shaping an idea 
         IA is my choice to generate optimal binary with performances. 
